@@ -16,9 +16,6 @@ Upon completion, you will understand:
 - Testing and debugging
 - Deployment best practices
 
-## Getting Started
-
-[Add installation and setup instructions here]
 
 ## Technologies
 
